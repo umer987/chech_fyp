@@ -20,15 +20,7 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 
 ## Implementation Details
 
-### Authentication Flow
 
-```
-1. User visits /adminvoice2law001
-2. ProtectedRoute checks authentication
-3. If not authenticated → redirect to /admin-login
-4. If authenticated but not admin → Access Denied
-5. If authenticated AND admin → Grant access
-```
 
 ### Session Lifecycle
 
