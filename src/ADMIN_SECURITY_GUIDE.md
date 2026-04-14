@@ -15,12 +15,6 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 
 
 
-ol
-
-
-
-### 🟡 Important - Should Do
-
 1. **Two-Factor Authentication (2FA)**
    - Add SMS or authenticator app 2FA
    - Require for sensitive operations
