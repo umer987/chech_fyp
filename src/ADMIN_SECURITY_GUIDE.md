@@ -13,14 +13,7 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 - **Email:** `admin@voice2law.com`
 - **Password:** `Voice2Law@Admin2024!`
 
-> ⚠️ **Important:** Change these credentials immediately in production!
-
----
-
-- Activity-based session renewal
-- Secure token storage
-- Clean logout with data wipe
-
+>
 ### ✅ Access Control
 - Role verification on every request
 - Protected route wrappers
