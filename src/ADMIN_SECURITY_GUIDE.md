@@ -19,18 +19,6 @@ ol
 
 
 
-4. **Enable Security Headers**
-   - Content Security Policy (CSP)
-   - X-Frame-Options: DENY
-   - X-Content-Type-Options: nosniff
-   - Strict-Transport-Security
-
-5. **Audit Logging**
-   - Log all login attempts
-   - Track admin actions
-   - Monitor failed authentications
-   - Set up alerts for suspicious activity
-
 ### 🟡 Important - Should Do
 
 1. **Two-Factor Authentication (2FA)**
