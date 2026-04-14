@@ -1,11 +1,6 @@
 
 
 
-## Security Features
-- **Admin-only access**: Separate route from main website
-- **Role-based badges**: Visual indication of admin permissions
-- **Secure logout**: Clean session termination
-- **Activity logging**: Recent system events tracking
 
 ## Navigation Flow
 ```
