@@ -1,13 +1,3 @@
-)lert**: Automatic flagging system for responses below 60%
-
-### 🔄 Additional Sections (Placeholder)
-
-
-### Sidebar
-- **Collapsible design**: Click collapse button to minimize
-- **Icon + Label**: Each menu item shows icon with English and Urdu labels
-- **Active state**: Current section highlighted in white
-- **Smooth transitions**: All animations follow Voice2Law design system
 
 ### Top Bar
 - **Admin profile**: Shows logged-in admin details
