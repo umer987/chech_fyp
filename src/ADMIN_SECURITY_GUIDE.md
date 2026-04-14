@@ -32,21 +32,6 @@ Login → Store user + session expiry → Validate on each request
       Logout/Expire → Clear all data → Redirect
 ```
 
-### File Structure
-
-```
-/contexts
-  └── AuthContext.tsx          # Authentication state & logic
-
-/components
-  └── ProtectedRoute.tsx       # Route protection wrapper
-
-/pages
-  ├── AdminLoginPage.tsx       # Secure login interface
-  └── AdminPanelPage.tsx       # Protected admin dashboard
-
-/App.tsx                       # Route configuration
-```
 
 ---
 
