@@ -1,14 +1,6 @@
 
 
-### 📚 Legal Knowledge Base
-- **Complete legal content management system**
-- **Features**:
-  - Search by category, section, or content
-  - Filter by status (Approved, Pending, Review)
-  - Full table view with Urdu and English summaries
-  - Action buttons: Edit, Approve, Reject
-  - Legal disclaimer panel
-  - Statistics summary
+### 📚 Lega
 - **Sample Data**: 6 entries covering Family, Property, Criminal, Business, Civil, and Labour Law
 
 ### 🤖 AI Response Review & Monitoring
