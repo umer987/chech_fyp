@@ -1,12 +1,6 @@
 
 
-## Color Scheme
-Consistent with Voice2Law branding:
-- Primary Green: `#1FAA59`
-- Dark Green: `#0B3D2E`
-- Gold Accent: `#C5A253`
-- White: `#FFFFFF`
-- Background: Gradient from `#E8F5ED` to white
+##`#E8F5ED` to white
 
 ## Typography
 - **English**: Default system font
