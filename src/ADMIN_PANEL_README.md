@@ -1,11 +1,5 @@
 
 
-##`#E8F5ED` to white
-
-## Typography
-- **English**: Default system font
-- **Urdu**: Noto Nastaliq Urdu (applied with `.urdu-text` class)
-
 ## Charts & Visualizations
 1. **Bar Chart**: Voice vs Text usage comparison
 2. **Pie Chart**: Legal topics distribution
