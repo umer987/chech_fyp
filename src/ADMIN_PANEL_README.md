@@ -1,8 +1,4 @@
-): Medium confidence
-    - Red (<60%): Low confidence (auto-flagged)
-  - Manual override actions: Approve, Reject, Request Review
-  - Dual language query and response display
-- **Low Confidence Alert**: Automatic flagging system for responses below 60%
+)lert**: Automatic flagging system for responses below 60%
 
 ### 🔄 Additional Sections (Placeholder)
 - **Urdu Law Content Management**: Specialized Urdu content handling
