@@ -1,13 +1,4 @@
 
-## Admin Panel Features
-
-### 🎯 Dashboard (Main View)
-- **Total Legal Queries**: Real-time statistics with trend indicators
-- **Voice vs Text Usage**: Weekly comparison bar chart
-- **Most Asked Legal Topics**: Pie chart visualization
-- **AI Performance Trend**: Line chart showing confidence and accuracy over time
-- **Key Metrics**: Progress bars for Urdu accuracy, AI confidence, satisfaction, uptime
-- **Recent Activities**: Live activity feed with system events
 
 ### 📚 Legal Knowledge Base
 - **Complete legal content management system**
