@@ -17,24 +17,6 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 
 ---
 
-## Security Features
-
-### 1. **Role-Based Access Control (RBAC)**
-- Only users with `admin` role can access the admin panel
-- Regular users are automatically denied access
-- Unauthorized access attempts redirect to login
-
-### 2. **Protected Routes**
-- `ProtectedRoute` component wraps admin pages
-- Checks authentication status before rendering
-- Verifies admin role authorization
-- Automatic redirection for unauthorized users
-
-
-
-
-
----
 
 ## Implementation Details
 
