@@ -1,13 +1,3 @@
-# Voice2Law Admin Panel
-
-## Accessing the Admin Panel
-
-The admin panel can be accessed in two ways:
-
-### Method 1: Direct URL
-Change the URL parameter to access admin directly:
-- Navigate to the app and manually change `currentPage` state to `'admin'`
-
 ### Method 2: Via Sign In Page
 1. Go to Sign In page
 2. Look for "Admin Access" link at the bottom of the form
