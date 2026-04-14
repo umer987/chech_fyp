@@ -30,11 +30,7 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 - Verifies admin role authorization
 - Automatic redirection for unauthorized users
 
-### 3. **Session Management**
-- **Session Timeout:** 30 minutes of inactivity
-- Automatic session extension on user activity
-- Session validation on every page load
-- Secure token storage in localStorage
+
 
 ### 4. **Rate Limiting**
 - Maximum 5 login attempts allowed
