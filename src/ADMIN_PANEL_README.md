@@ -1,10 +1,5 @@
 
 
-## Charts & Visualizations
-1. **Bar Chart**: Voice vs Text usage comparison
-2. **Pie Chart**: Legal topics distribution
-3. **Line Chart**: AI performance trends over time
-4. **Progress Bars**: Key metrics indicators
 
 ## Security Features
 - **Admin-only access**: Separate route from main website
