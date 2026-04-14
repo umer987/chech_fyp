@@ -13,12 +13,6 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 - **Email:** `admin@voice2law.com`
 - **Password:** `Voice2Law@Admin2024!`
 
->
-### ✅ Access Control
-- Role verification on every request
-- Protected route wrappers
-- Access denied screens
-- Audit-ready logging points
 
 
 ol
