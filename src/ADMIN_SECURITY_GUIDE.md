@@ -32,11 +32,6 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 
 
 
-### 4. **Rate Limiting**
-- Maximum 5 login attempts allowed
-- Account lockout after failed attempts
-- 15-minute cooldown period after lockout
-- Prevents brute force attacks
 
 ### 5. **Authentication Context**
 - Centralized auth state management
