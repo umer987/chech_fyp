@@ -1,8 +1,5 @@
 
 
-### 📚 Lega
-- **Sample Data**: 6 entries covering Family, Property, Criminal, Business, Civil, and Labour Law
-
 ### 🤖 AI Response Review & Monitoring
 - **AI performance tracking and quality control**
 - **Features**:
