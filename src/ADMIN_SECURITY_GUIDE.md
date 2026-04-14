@@ -34,15 +34,7 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 - Loading states to prevent race conditions
 
 ---
-
-## Production Deployment Checklist
-
-### 🔴 Critical - Must Do
-
-1. **Change Admin Credentials**
-   - Update email and password in `AuthContext.tsx`
-   - Use environment variables for credentials
-   - Never commit credentials to version control
+ol
 
 2. **Implement Backend Authentication**
    - Replace localStorage with secure backend
