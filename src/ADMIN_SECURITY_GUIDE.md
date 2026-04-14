@@ -17,20 +17,7 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 
 ol
 
-2. **Implement Backend Authentication**
-   - Replace localStorage with secure backend
-   - Use JWT tokens or session cookies
-   - Implement server-side validation
-   - Add HTTPS for secure transmission
 
-3. **Add Supabase Authentication** (Recommended)
-   ```typescript
-   // Replace localStorage with Supabase
-   const { data, error } = await supabase.auth.signInWithPassword({
-     email,
-     password
-   })
-   ```
 
 4. **Enable Security Headers**
    - Content Security Policy (CSP)
