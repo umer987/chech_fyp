@@ -1,10 +1,5 @@
 
-
-### 🤖 AI Response Review & Monitoring
-- **AI performance tracking and quality control**
-- **Features**:
-  - Average AI confidence and Urdu NLP score metrics
-  - Filter tabs: All, Approved, Flagged, Under Review
+l, Approved, Flagged, Under Review
   - Confidence indicators with color coding:
     - Green (≥80%): High confidence
     - Orange (60-79%): Medium confidence
