@@ -2,12 +2,6 @@
 
 
 
-## Navigation Flow
-```
-Main Website → Sign In Page → Admin Access Link → Admin Panel
-                                                  ↓
-                Admin Panel → Logout → Main Website Homepage
-```
 
 ## Future Enhancements
 The following sections are marked "Under Development" and can be expanded:
