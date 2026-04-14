@@ -1,11 +1,5 @@
 
 
-### Layout
-- **Responsive design**: Adapts to collapsed/expanded sidebar
-- **Clean spacing**: Large margins, no clutter
-- **Card-based**: Modular widget system
-- **Professional charts**: Using Recharts library for visualizations
-
 ## Color Scheme
 Consistent with Voice2Law branding:
 - Primary Green: `#1FAA59`
