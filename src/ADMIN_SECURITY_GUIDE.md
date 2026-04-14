@@ -35,15 +35,6 @@ Login → Store user + session expiry → Validate on each request
 
 ---
 
-## Security Best Practices Implemented
-
-### ✅ Password Security
-- Strong password requirements
-- Password visibility toggle
-- Passwords cleared on failed attempts
-- No password hints or recovery (in demo)
-
-### ✅ Session Security
 - Automatic session expiration
 - Activity-based session renewal
 - Secure token storage
