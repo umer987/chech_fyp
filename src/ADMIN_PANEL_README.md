@@ -1,8 +1,4 @@
-
-l, Approved, Flagged, Under Review
-  - Confidence indicators with color coding:
-    - Green (≥80%): High confidence
-    - Orange (60-79%): Medium confidence
+): Medium confidence
     - Red (<60%): Low confidence (auto-flagged)
   - Manual override actions: Approve, Reject, Request Review
   - Dual language query and response display
