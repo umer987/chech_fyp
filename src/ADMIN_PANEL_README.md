@@ -1,10 +1,4 @@
 
-### Top Bar
-- **Admin profile**: Shows logged-in admin details
-- **System status**: Live indicator (green = online)
-- **Role badge**: Displays "Super Admin" with security icon
-- **Notifications**: Bell icon with unread count
-- **Logout button**: Returns to main website homepage
 
 ### Layout
 - **Responsive design**: Adapts to collapsed/expanded sidebar
