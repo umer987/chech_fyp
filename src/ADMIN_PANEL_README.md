@@ -1,7 +1,3 @@
-### Method 2: Via Sign In Page
-1. Go to Sign In page
-2. Look for "Admin Access" link at the bottom of the form
-3. Click to access the admin panel
 
 ## Admin Panel Features
 
