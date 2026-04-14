@@ -1,14 +1,7 @@
 )lert**: Automatic flagging system for responses below 60%
 
 ### 🔄 Additional Sections (Placeholder)
-- **Urdu Law Content Management**: Specialized Urdu content handling
-- **Voice & NLP Monitoring**: Speech recognition analytics
-- **User Queries & Feedback**: User interaction tracking
-- **Analytics & Reports**: Comprehensive reporting system
-- **System Settings**: Configuration management
-- **Logs & Security**: Audit trails and security monitoring
 
-## UI Components
 
 ### Sidebar
 - **Collapsible design**: Click collapse button to minimize
