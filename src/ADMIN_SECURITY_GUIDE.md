@@ -17,25 +17,6 @@ The Voice2Law admin panel is protected with enterprise-level security features t
 
 ---
 
-
-## Implementation Details
-
-
-
-### Session Lifecycle
-
-```
-Login → Store user + session expiry → Validate on each request
-         ↓
-      30 min timeout → Extend on activity
-         ↓
-      Logout/Expire → Clear all data → Redirect
-```
-
-
----
-
-- Automatic session expiration
 - Activity-based session renewal
 - Secure token storage
 - Clean logout with data wipe
